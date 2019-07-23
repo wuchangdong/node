@@ -1,6 +1,6 @@
 /**
  * @file
- * @generator
+ * @author
  */
 
 /**

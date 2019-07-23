@@ -1,6 +1,6 @@
 /**
  * @file global
- * @generator wuchangdong
+ * @author wuchangdong
  */
 // global得变量都是全局变量
 // 所有全局变量都是global得

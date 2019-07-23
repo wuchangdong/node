@@ -1,0 +1,8 @@
+/**
+ * @file
+ * @author
+ */
+
+function EventEmitter() {
+
+}
