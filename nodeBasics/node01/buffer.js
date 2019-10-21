@@ -46,3 +46,4 @@ console.log(buf8.toString());
 // 解决buf不完整出现乱码， 原理：缓存起来 加到下次write中
 console.log(sd.write(buf8));
 console.log(sd.write(buf9));
+    
